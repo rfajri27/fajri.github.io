@@ -1,19 +1,26 @@
-## Portfolio
+## Selected Projects in Data Science & Machine Learning
 
 ---
 
-### Category Name 1 
+### Deep NLP for Sentiment Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral. For this project, I used PyTorch to develop a classifier and fine-tuned an IndoBERT model. I used this model to analyze more than **50K student feedback** and predict their sentiment, allowing me to identify common complaints from students.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Question Similarity Check
+
+Question similarity check is the automated task to detecting similarity between a pair of questions. In this project, I build a NLP model to create vector representations for each question and used cosine similarity to determine the similarity between these vectors.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+<img src="images/quastion-similarity.png?raw=true"/>
+
+---
+### Skin Cancer Segmentation
+
+<img src="images/skin-cancer-segmentation.png?raw=true"/>
 
 ---
 
