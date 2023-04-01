@@ -32,7 +32,7 @@ Skin cancer segmentation is a critical task in the diagnosis and treatment of sk
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on GitHub repository](https://github.com/rfajri27/skin-cancer-segmentation)
 
 ---
 
