@@ -2,6 +2,20 @@
 
 ---
 
+## Implement RFM Analysis and Sales Prediction on E-Comerce Dataset
+
+To gain insights into customer behavior and improve sales, I utilized the RFM (Recency, Frequency, Monetary) analysis approach to segment customers based on their past purchasing behavior. In addition, I employed the LSTM model using TensorFlow to develop a robust sales prediction model.
+
+<img src="images/customer-segmentation.png"/>
+
+<img src="https://github.com/rfajri27/ds-test/raw/main/images/sales-prediction.png"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
+[View code on GitHub repository](https://github.com/rfajri27/ds-test)
+
+---
+
 ## Implement CI/CD on Machine Learning System
 In this project, I applied the DevOps methodology which highlights speedy and efficient software development and deployment by implementing Continuous Integration and Delivery (CI/CD) practices. I established automated testing and data validation every time there was a modification in code or data, and deployed it on Heroku using FastAPI. Additionally, I utilized DVC to manage version control of data and model artifacts, ensuring that any changes made to them were tracked and easily reproducible.
 
