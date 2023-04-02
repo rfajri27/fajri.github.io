@@ -16,15 +16,6 @@ To gain insights into customer behavior and improve sales, I utilized the RFM (R
 
 ---
 
-## Implement CI/CD on Machine Learning System
-In this project, I applied the DevOps methodology which highlights speedy and efficient software development and deployment by implementing Continuous Integration and Delivery (CI/CD) practices. I established automated testing and data validation every time there was a modification in code or data, and deployed it on Heroku using FastAPI. Additionally, I utilized DVC to manage version control of data and model artifacts, ensuring that any changes made to them were tracked and easily reproducible.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DVC-white?logo=DVC)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=fastapi)](#) [![](https://img.shields.io/badge/Heroku-white?)](#) [![](https://img.shields.io/badge/scikit_learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github)](#)
-
-[View code on GitHub repository](https://github.com/rfajri27/deploy-model-on-heroku)
-
----
-
 ## Skin Cancer Segmentation
 
 Skin cancer segmentation is a critical task in the diagnosis and treatment of skin cancer. In this project, I developed an automated method for accurately segmenting skin cancer images. Using the functional API in TensorFlow, I built a U-Net architecture model that effectively segmented the affected areas of skin. To evaluate the model's performance, I used the Intersection over Union (IoU) metric and the Dice coefficient, achieving impressive results that indicate the model's ability to accurately identify and segment skin cancer.
@@ -34,6 +25,15 @@ Skin cancer segmentation is a critical task in the diagnosis and treatment of sk
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
 [View code on GitHub repository](https://github.com/rfajri27/skin-cancer-segmentation)
+
+---
+
+## Implement CI/CD on Machine Learning System
+In this project, I applied the DevOps methodology which highlights speedy and efficient software development and deployment by implementing Continuous Integration and Delivery (CI/CD) practices. I established automated testing and data validation every time there was a modification in code or data, and deployed it on Heroku using FastAPI. Additionally, I utilized DVC to manage version control of data and model artifacts, ensuring that any changes made to them were tracked and easily reproducible.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/DVC-white?logo=DVC)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=fastapi)](#) [![](https://img.shields.io/badge/Heroku-white?)](#) [![](https://img.shields.io/badge/scikit_learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github)](#)
+
+[View code on GitHub repository](https://github.com/rfajri27/deploy-model-on-heroku)
 
 ---
 
