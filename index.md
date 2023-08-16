@@ -2,7 +2,7 @@
 
 ---
 
-## Implement RFM Analysis and Sales Prediction on E-Comerce Dataset
+## Implement RFM Analysis and Sales Prediction on E-Commerce Dataset
 
 To gain insights into customer behavior and improve sales, I utilized the RFM (Recency, Frequency, Monetary) analysis approach to segment customers based on their past purchasing behavior. In addition, I employed the LSTM model using TensorFlow to develop a robust sales prediction model.
 
