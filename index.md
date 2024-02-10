@@ -1,6 +1,19 @@
 # Selected Projects in Data Science & Machine Learning
 
 ---
+## Chat wit Your Documents with Generative AI (RAG System)
+
+This is the prototype app that enables us to ask the chat-bot anything about our documents. In this project, I implemented RAG (Retrieval Augmented Generation) to retrieve relevant information from our documents and send it to the LLM to generate answers.
+
+<img src="images/QA_Docs-Page-1.jpg"/>
+
+<img src="images/chat_with_your_documents.png"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/LLM-white)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/LangChain-white?logo=langchain)](#) [![](https://img.shields.io/badge/ChromaDB-white?logo=chroma)](#)
+
+[Try the streamlit app](https://ask-my-gemini.streamlit.app/)
+
+---
 
 ## Implement RFM Analysis and Sales Prediction on E-Commerce Dataset
 
