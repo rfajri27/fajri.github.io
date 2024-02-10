@@ -1,7 +1,7 @@
 # Selected Projects in Data Science & Machine Learning
 
 ---
-## Chat with Your Documents with Generative AI (RAG System)
+## Chat with Your Documents (RAG System)
 
 This is the prototype app that enables us to ask the chat-bot anything about our documents. In this project, I implemented RAG (Retrieval Augmented Generation) to retrieve relevant information from our documents and send it to the LLM to generate answers.
 
